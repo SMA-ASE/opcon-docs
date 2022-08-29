@@ -316,7 +316,8 @@ sub-type.
     update only the first match for each prompt or if it will update all
     matches for each prompt.
 - **Prompt/Response**: Defines the text for a Prompt and Response the
-    Episys job will require.
+    Episys job will require. Refer to [Program Commands](https://help.smatechnologies.com/opcon/agents/episys/symitar-batch-files/#symitar-batch-file-program-commands) 
+    in the Episys Agent help documentation for a list of options.
 
 ### Episys: Compare ACH Totals
 
